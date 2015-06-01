@@ -2,7 +2,7 @@
 ---
 
 This is a simple practice for Flux. It's running with Firebase. I am not sure it is correct way to build a flux app.
-**I welcome all commit to make it better.**
+**Welcome all commits.**
 
 ##Install:
 ---
