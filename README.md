@@ -6,7 +6,8 @@ This is a simple practice for Flux. It's running with Firebase. I am not sure it
 
 ##Install:
 ---
-- Require: [Bower](http://bower.io/), [Gulp](http://gulpjs.com/)
+- Require:[Node](https://nodejs.org/download/) [Bower](http://bower.io/), [Gulp](http://gulpjs.com/),
+
 
 Run  `$ npm install`
 
